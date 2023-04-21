@@ -1,8 +1,11 @@
 .main{
-  border: 2px solid;
+
     width: 34rem;
     background-color: white;
 padding: 1rem;
+position: relative;
+top: 5rem;
+left: 10rem;
 }
 .headCard{
     border-bottom: 2px solid gainsboro;
