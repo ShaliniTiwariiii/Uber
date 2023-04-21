@@ -37,12 +37,12 @@
     justify-content: space-around;
     padding: 35px;
 }
-span{
+.arrow{
     font-size: 2rem;
     cursor: pointer;
     cursor: pointer;
 }
-span:hover {
+.arrow:hover {
     transform: translateX(15px);
     transition: transform 0.1s ease-in-out;
     cursor: pointer;

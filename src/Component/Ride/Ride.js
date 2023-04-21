@@ -19,7 +19,7 @@ export default function Ride() {
                     <p>Get affordable uber auto ride with no hangling.</p>
                  
                 </div>
-                <span><AiOutlineArrowRight/></span>
+                <span className={style.arrow}><AiOutlineArrowRight/></span>
             </div>
 
             <div className={style.auto}>
@@ -28,7 +28,7 @@ export default function Ride() {
                     <h2>Uber Moto</h2>
                     <p>Get affordable uber auto ride with no hangling.</p>
                 </div>
-                <span><AiOutlineArrowRight/></span>
+                <span className={style.arrow}><AiOutlineArrowRight/></span>
             </div>
         </div>
 
@@ -42,7 +42,7 @@ export default function Ride() {
                     <h2>Uber Moto</h2>
                     <p>Get affordable uber auto ride with no hangling.</p>
                 </div>
-                <span><AiOutlineArrowRight/></span>
+                <span className={style.arrow}><AiOutlineArrowRight/></span>
             </div>
 
             <div className={style.auto}>
@@ -51,7 +51,7 @@ export default function Ride() {
                     <h2>Uber Moto</h2>
                     <p>Get affordable uber auto ride with no hangling.</p>
                 </div>
-                <span><AiOutlineArrowRight/></span>
+                <span className={style.arrow}><AiOutlineArrowRight/></span>
             </div>
         </div>
     </div>
